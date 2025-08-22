@@ -6,12 +6,12 @@ const sections = [
 ];
 
 const tests = [
-    {
-        id:0,
-        name:"Manufacture of food and baveragest",
-        level:"SSW",
-        questions:ManufactureOfFoodAndBeveragest1
-    },
+    // {
+    //     id:0,
+    //     name:"Manufacture of food and baveragest",
+    //     level:"SSW",
+    //     questions:ManufactureOfFoodAndBeveragest1
+    // },
     {
         id:1,
         name:"Food service",
